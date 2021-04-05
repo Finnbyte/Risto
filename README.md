@@ -7,4 +7,4 @@ It hangs around on my Discord server and in the future, hopefully on some public
 - Databases
 - Delete and mute command
 - Functional and modular leave and join events
-... - anything else that comes to my mind.
+- ... anything else that comes to my mind at some point.
